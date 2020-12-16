@@ -1,5 +1,7 @@
 # vuesax-nuxt
 
+Home mini로 vuesax 적용후 card content 만들어보는 중
+
 ## Build Setup
 
 ```bash
@@ -18,4 +20,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
 # mini-vuesax-nuxt
